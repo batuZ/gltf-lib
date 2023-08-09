@@ -1,0 +1,23 @@
+{
+  "name": "gltf-lib",
+  "version": "1.0.0",
+  "description": "gltf model & functions for nodejs.",
+  "main": "index.js",
+  "scripts": {
+    "login": "npm login",
+    "publish": "npm publish",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "glTF"
+  ],
+  "author": "batuZ",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/batuZ/shape-sync.git"
+  },
+  "dependencies": {
+    "mathjs": "^11.9.1"
+  }
+}
