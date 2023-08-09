@@ -15,7 +15,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/batuZ/shape-sync.git"
+    "url": "https://github.com/batuZ/gltf-lib.git"
   },
   "dependencies": {
     "mathjs": "^11.9.1"
